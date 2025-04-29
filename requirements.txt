@@ -3,5 +3,4 @@ python-decouple==3.8
 pytz==2024.2
 pytz==2025.2
 Requests==2.32.3
-streamlit==1.41.1
 streamlit==1.44.1
